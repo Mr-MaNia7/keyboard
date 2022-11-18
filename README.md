@@ -1,3 +1,3 @@
-# keyboard
+# typo
 
-Amharic keyboard with error display and grammar correction
+Amharic input box with error display.
